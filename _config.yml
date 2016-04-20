@@ -12,7 +12,7 @@ url: "https://deblugger.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /deblugger.github.io
+baseurl: /putoamo
 
 # Google tracking id to track your visitors
 
