@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "https://avatars0.githubusercontent.com/u/18582660?v=3&s=460"
+me-img: "/img/me.jpg"
 
 ##############################
 # Color the browser elements #
@@ -124,7 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "dgonzalezsolana@gmail.com"
 
 ################
 # Author Blurb #
@@ -135,7 +135,7 @@ email: "your@email.here"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Deblugger a.k.a. David es un desarrollador junior de Granada, se ha metido en un lio y aún no se ha enterado."
-author_blurb_image: "https://avatars0.githubusercontent.com/u/18582660?v=3&s=460"
+author_blurb_image: "/img/me.jpg"
 
 ##################
 # Social Buttons #
@@ -162,7 +162,6 @@ social:
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
