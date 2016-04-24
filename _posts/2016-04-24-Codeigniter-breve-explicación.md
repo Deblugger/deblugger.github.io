@@ -24,7 +24,7 @@ voy a compartir mis conocimientos, bastante básicos, acerca de este framework.
 
 Codeigniter es un framework para constuir sitios dinámicos con PHP, está basado en el modelo vista-controlador (MVC).
 
-Los contraladores son el centro de todo, ahí ocurre la magia, en la vista se muestra y en el modelo se piden datos a la base de datos.
+Los controladores son el centro de todo, ahí ocurre la magia, en la vista se muestra y en el modelo se piden datos a la base de datos.
 Instalar Codeigniter es bastante sencillo, tan solo tienes que bajartelo de su web: [https://www.codeigniter.com/](https://www.codeigniter.com/)
 y copiarlo en tu servidor, hasta ahí todo fácil, ahora llega lo complicado, al menos que ya sepas algo acerca de todo esto, en cuyo caso,
 supongo que será sencillo de comprender.
