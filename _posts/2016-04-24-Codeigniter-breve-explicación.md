@@ -70,7 +70,7 @@ public function ejemplo_modelo(){
 	$this->load->model('model');
 	$this->model->select_query('*');
 }
-´´´
+```
 
 Como ya te he dicho, los ataques a la base de datos se hacen a través del modelo, que se carga con:
 **$this->load->model('nombre_del_modelo)**, me apuesto un huevo a que eres capaz de saber donde meterlo sin que yo te lo diga,
@@ -80,7 +80,7 @@ Te preguntarás, y con toda la razón del mundo, que como coño le digo como acc
 **application/config** hay un archivo que se llama **database** que te permite configurar el acceso a dicha base de datos, vamos 
 a echar un vistado al modelo:
 
-´´´php
+```php
 class Model extends CI_Model {
     function __construct(){
         parent::__construct();
@@ -95,7 +95,7 @@ class Model extends CI_Model {
         return $res->result();
     }
 }
-´´´
+```
 Como puedes ver, Codeigniter, trabaja con $this->db para atacar la base de datos, con esto se hace el select, insert, update, delete, ...
 todo, vaya, todo tiene que pasar por ahí.
 
