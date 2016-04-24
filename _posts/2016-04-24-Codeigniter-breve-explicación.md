@@ -51,7 +51,7 @@ public function ejemplo(){
 	$data['mensaje'] = 'Hola CodeIgniter';
 	$this->load->view('ejemplo', $data);
 }
-'''
+```
 
 Los controladores permiten pasar datos mediante un array a las vistas, a estos datos se acceden con $variable.
 
