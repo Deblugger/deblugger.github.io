@@ -19,8 +19,6 @@ nacemos todos y eso se tiene que entrenar, y el **lenguaje** en si, esto si que 
 Hace unas semanas, esperando, descubrí una serie de aplicaciones bastante buenas para aprender lenguajes de programación, SoloLearn.
 
 
-![alt text](../img/sololearn.png "sololearn apps")
-
 No, no me pagan por contarte esto, te lo prometo, aunque bien cierto es que ya podrían porque se lo he recomendado a un buen puñado de 
 gente, te explico, esta serie de aplicaciones para Android te permiten aprender la sintaxis básica de un lenguaje de programación, 
 explicándote la teoría, enseñándote ejemplos y haciéndote preguntas tipo test, al finalizar te dan hasta un diploma (de dudosa
