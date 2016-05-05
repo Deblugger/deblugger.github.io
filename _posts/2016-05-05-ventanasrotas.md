@@ -12,7 +12,7 @@ seguir blogs, a leer noticias, a buscar en reddit, a intentar ayudar en Stackove
 y por razones de la vida me encontré con una lista de libros que todo programador debía leer, ni corto ni perezoso me he propuesto 
 leer todos esos libros que recomienda, empezando por el primero que me ha llegado hoy:
 
-### The pragmatic programmer: #### from journeyman to master
+### The pragmatic programmer: from journeyman to master
 
 Según he leido, lo cual ha sido poco, este libro no va acerca de un lenguaje de programación o tecnologías que debes de conocer si o si,
 va sobre programar, sobre buenas practicas y problemas que se encuentra uno día a día. 
