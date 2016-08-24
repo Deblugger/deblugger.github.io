@@ -1,0 +1,51 @@
+---
+layout: post
+section-type: post
+title: Miedo
+category: tontadas
+tags: [ 'tontadas', 'miedo', 'futuro' ]
+---
+
+Hacía mucho que no escribía, realmente carezco de motivación estos últimos días, una serie de problemas personales y la rutina y monotonía
+de mi trabajo hace que no tenga demasiadas ganas de nada. Hace unos días encontré mi viejo pendrive, ese pen me había acompañado desde
+mis comienzos en la programación, total, que lo enchufé al ordenador y un montón de archivos aparecieron delante de mi, 16 gigas llenos
+de documentos divididos entre proyectos, prácticas y manuales de mi época universitaria y más tarde en el módulo.
+
+Seguramente te lo habré contado alguna vez, pero mi verdadera pasión es hacer videojuegos, no quiero juegos para entretener, no me 
+interesa ser el creador del próximo bombazo con 300 entregas, quiero juegos de pensar, de sentir, en cierta forma quiero crear
+libros interactivos con los que la gente llore, ria o se cague en mis muertos.
+
+#### ¿A que pollas viene esto?
+
+Tranquilo, ahora te lo cuento. Todo esto viene a que en primero de FP teniamos que hacer un proyecto a final del curso, nada complicado,
+simplemente unir todos los conocimientos adquiridos de programación y ponerlos en práctica, por supuesto yo hice un juego. Lo gracioso
+es que no era un juego mío, simplemente un día me apeteció jugar a un juego que había en la famosa página de Minijuegos, no recordaba el 
+nombre, aunque hoy día creo que se llama Sword & Sandals, así que haciendo uso de mi memoria me dispuse a crear una replica del juego, 
+no tanto en gráficos como en mecánicas y jugabilidad. El juego era sencillo:
+
+- Te creas un personaje.
+- Apareces en un mapa en 2D, nada de moverte, haces click en los sitios y entras.
+- Tienes una armería para comprar armas, herrería para armaduras, posada para descansar y una arena.
+- En la arena luchas, subes niveles y ganas dinero para usar en todo lo anterior.
+
+Total que hice mi juego, mi idea era hacerlo online, no habíamos visto nada de comunicación por red así que intenté hacerlo por mi 
+cuenta, finalmente desistí. 
+
+El juego final lo he colgado en mi Github, es un compilado en Java, simplemente te lo descargas y ejecutas el .jar que hay en dist.
+
+[Swords And Alpargatas](https://github.com/Deblugger/swordAndAlpargatas)
+
+
+#### ¿QUE COJONES TIENE QUE VER ESTO CON EL MIEDO?
+
+Todo esto tiene que ver con el miedo en que he mirado atrás y me he dado cuenta de que, supongo que en parte por la situación, he 
+perdido en parte esa esencia, y me da miedo, desde luego mi intención no es quedarme trabajando en Granada el resto de mi vida,
+ni siquiera en España, pero, ¿y si pasa?, ¿y si simplemente me acomodo como tantos y no logro salir?, y ya no es simplemente eso,
+le tengo miedo a no hacer algo grande. Cierto es que ya no deseo tanto hacer videojuegos como antes, bueno, en realidad si que lo deseo,
+lo que pasa es que antes odiaba la idea de trabajar para una empresa haciendo programas para otras empresas, pero al estar dentro
+de ello me he dado cuenta de que también me gusta.
+
+#### Quiero marcar una generación
+
+Quiero ser el inventor del próximo MSN, que alguien use algo mío y realmente le sea útil.
+
